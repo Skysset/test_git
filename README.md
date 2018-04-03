@@ -1,3 +1,4 @@
 # test_git
-initilization of read me 
-agregue algo
+Initialization of read me
+Added something
+
